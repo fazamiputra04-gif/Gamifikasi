@@ -46,6 +46,8 @@ Our vision is to revolutionize personal productivity in the digital age by:
 - **Contract Address**: CB6B3RYTFSBGXVT56HQRPQLYO6WQEBORB22CJDP23FTL5LZQ7HY2IU3N
 - **Language**: Rust (`#![no_std]`)
 - **Network**: Stellar Soroban (Testnet/Mainnet)
+- <img width="1911" height="922" alt="image" src="https://github.com/user-attachments/assets/e019f936-28d8-4e77-8fe1-5d76fa81f483" />
+
 
 ## Future Scope
 
